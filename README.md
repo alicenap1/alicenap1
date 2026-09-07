@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mert Ali, a **Mechatronics Engineering** student at Yıldız Technical University (YTÜ) in Türkiye. ⚙️ As a first-year student, I have a deep curiosity for coding, mechanical design, and robotics. I believe in continuous self-improvement, and my life motto is simple: **"Better than Yesterday."**
+I'm Mert Ali, a **Mechatronics Engineering** student at Yıldız Technical University (YTÜ) in Türkiye. ⚙️ As a second-year student, I have a deep curiosity for coding, mechanical design, and robotics. I believe in continuous self-improvement, and my life motto is simple: **"Better than Yesterday."**
 
 ### 🔭 What I'm currently working on
 - Developing my skills in **C++** through continuous practice and project building.
