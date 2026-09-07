@@ -10,12 +10,11 @@ I'm Mert Ali, a **Mechatronics Engineering** student at Yıldız Technical Unive
 
 ### 🌱 What I'm currently learning
 - Advanced software architecture and algorithmic problem solving.
-- Expanding my language skills: working towards B2 English proficiency and studying French.
+- Expanding my language skills: working towards B2 English proficiency
 - Exploring the intersection of mechanics, electronics, and coding to build smart systems.
 
 ### ⚡ Fun Facts & Interests
 - When I'm not debugging code or doing CAD designs, you can find me training in **gym and kickboxing** 🥊.
-- I'm a huge fan of immersive, story-driven games like *Red Dead Redemption 2* 🐎.
 - I have a keen interest in aviation history, military aircraft specifications, and analyzing financial markets.
 
 ### 🛠️ Tech Stack & Tools
